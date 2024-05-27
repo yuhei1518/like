@@ -8,7 +8,6 @@
   <script src="js/particles.js"></script>
   <script src="js/map.js"></script>
   <script src="js/footer.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key= &callback=initMap" async defer></script>
   <title>好きなこと</title>
 
 </head>
